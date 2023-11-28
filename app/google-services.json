@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "587505752375",
+    "firebase_url": "https://appchatmob403-default-rtdb.firebaseio.com",
+    "project_id": "appchatmob403",
+    "storage_bucket": "appchatmob403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587505752375:android:238f8f92ac32275f89a2b2",
+        "android_client_info": {
+          "package_name": "com.example.appchat_mob403"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0lSwVEkWCj_tX3EF-GYcMKknyDfmy4ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
